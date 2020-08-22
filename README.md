@@ -32,7 +32,10 @@ Codes for node A (sensor):
 
 -IEEE protocol(banchmark):
   r5bandisplaycoor.py
-  
+
+Details
+------------------------------------------------------------------------------------------
+For more information about this project, please refer to Experiment Specification.pdf or https://ieeexplore.ieee.org/document/9081425
 References
 ------------------------------------------------------------------------------------------
 [1] IEEE Computer Society, IEEE Standard for Local and Metropolitan Area Networks - Part 15.6: Wireless Body Area Networks. 2012. 
