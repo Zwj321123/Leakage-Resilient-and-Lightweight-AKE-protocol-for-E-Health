@@ -1,0 +1,2 @@
+# Leakage-Resilient-and-Lightweight-AKE-protocol-for-E-Health
+ In this project, a leakage-resilient and lightweight (LRL) ECDH-based authenticated key exchange (AKE) protocol is proposed. It is found that the protocol remains secure under continual leakage attacks by employing the blinding and refreshing technique for long-term secret keys. Moreover, it alleviates the computational burden on the computationally limited sensor node by transferring some computation tasks to the more powerful hub (or coordinator).
